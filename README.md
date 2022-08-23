@@ -30,6 +30,7 @@
 
 ## Improvements
 * handle unknown exceptions
+* actually connect to `testConsole` module to gain access to `writeConsole()` and `readConsole()`
 * add more tests
     * `writeConsole()` handles invalid input 
     * `readConsole()` returns valid coordinates
