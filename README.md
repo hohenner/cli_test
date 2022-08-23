@@ -28,7 +28,7 @@
 * value in tracking errors seperately?
     * aka `NotConnected` from `readConsole()` logged differently than `writeConsole()`
 
-## improvements
+## Improvements
 * handle unknown exceptions
 * add more tests
     * `writeConsole()` handles invalid input 
