@@ -6,6 +6,7 @@
 * Deactivate venv: `deactivate`
 
 ## Run tests
+* add ability to run tests in `pytest`
 
 ## Questions
 * what error states are we handling?
